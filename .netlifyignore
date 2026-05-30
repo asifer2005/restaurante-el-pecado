@@ -1,0 +1,7 @@
+# Archivos que no se suben a Netlify
+node-v24.16.0-x64.msi
+*.png
+node_modules/
+optimizar.js
+package.json
+package-lock.json
